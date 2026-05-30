@@ -3,10 +3,6 @@
 <!-- BANNIÈRE PRINCIPALE : SVG hébergé dans le repo -->
 <img src="https://raw.githubusercontent.com/oussemahafidhi-svg/oussemahafidhi-svg/main/header.svg" width="100%" alt="banner"/>
 
-# 👋 Oussema Hafidhi
-
-### 🛡️ Site Reliability Manager &nbsp;|&nbsp; 🤖 AI & Innovation Enthusiast
-
 <br/>
 
 <!-- Typing animation messages -->
