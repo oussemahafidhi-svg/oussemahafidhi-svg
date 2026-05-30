@@ -1,0 +1,28 @@
+<svg width="1200" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="35%" style="stop-color:#764ba2"/>
+      <stop offset="70%" style="stop-color:#f093fb"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
+    </linearGradient>
+    <style>
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(-10px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      .title { animation: fadeIn 1s ease forwards; }
+      .subtitle { animation: fadeIn 1s ease 0.4s forwards; opacity: 0; }
+    </style>
+  </defs>
+  <rect width="1200" height="180" fill="url(#grad)" rx="12"/>
+  <rect width="1200" height="180" fill="rgba(0,0,0,0.15)" rx="12"/>
+  <text class="title" x="600" y="85" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="52" font-weight="700" fill="white"
+        letter-spacing="1">Oussema Hafidhi</text>
+  <text class="subtitle" x="600" y="135" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="22" fill="rgba(255,255,255,0.92)"
+        letter-spacing="0.5">Site Reliability Manager  |  AI &amp; Innovation Enthusiast  🤖🛡️</text>
+</svg>
