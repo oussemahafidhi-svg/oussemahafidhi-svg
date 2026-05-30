@@ -111,21 +111,30 @@ fun_fact: I turn incidents into innovations ⚡ → 💡
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussemahafidhi-svg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemahafidhi-svg&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-
-</div>
-
-<div align="center">
+<!-- streak-stats : 100% fiable (status 200 confirmé) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussemahafidhi-svg&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Statistiques via github-readme-stats instance alternative -->
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oussemahafidhi-svg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oussemahafidhi-svg&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=oussemahafidhi-svg&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+
+<img src="https://img.shields.io/badge/First%20Commit-🎉-blueviolet?style=for-the-badge" alt="First Commit"/>
+<img src="https://img.shields.io/badge/Open%20Source-💚-brightgreen?style=for-the-badge" alt="Open Source"/>
+<img src="https://img.shields.io/badge/SRE%20Expert-🛡️-blue?style=for-the-badge" alt="SRE Expert"/>
+<img src="https://img.shields.io/badge/AI%20Builder-🤖-ff6b6b?style=for-the-badge" alt="AI Builder"/>
+<img src="https://img.shields.io/badge/Cloud%20Native-☁️-00b4d8?style=for-the-badge" alt="Cloud Native"/>
+<img src="https://img.shields.io/badge/DevOps%20Engineer-⚙️-orange?style=for-the-badge" alt="DevOps"/>
+
 </div>
 
 ---
