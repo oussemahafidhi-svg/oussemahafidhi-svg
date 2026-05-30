@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- BANNIÈRE PRINCIPALE : typing-svg fiable, grande taille -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=5000&color=A855F7&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=130&lines=Oussema+Hafidhi" alt="Oussema Hafidhi"/>
+<!-- BANNIÈRE : typing-svg avec nom et rôle, repeat=true, paramètres simples -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=2000&color=A855F7&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Oussema+Hafidhi+%F0%9F%91%8B;Site+Reliability+Manager+%F0%9F%9B%A1%EF%B8%8F;AI+%26+Innovation+Enthusiast+%F0%9F%A4%96" alt="Oussema Hafidhi - SRE Manager"/>
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=4000&color=06B6D4&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=1200&height=50&lines=Site+Reliability+Manager+%7C+AI+%26+Innovation+%F0%9F%A4%96%F0%9F%9B%A1%EF%B8%8F" alt="Role"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&height=50&lines=Building+Innovative+AI+Solutions+%F0%9F%A4%96;Ensuring+99.99%25+Uptime+%F0%9F%9A%80;Turning+Incidents+into+Opportunities+%F0%9F%92%A1;LLMs+%7C+MLOps+%7C+AIOps+at+Scale+%F0%9F%A7%A0" alt="Typing messages"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=45&lines=Building+Innovative+AI+Solutions+%F0%9F%A4%96;Ensuring+99.99%25+Uptime+%F0%9F%9A%80;Turning+Incidents+into+Opportunities+%F0%9F%92%A1;LLMs+%7C+MLOps+%7C+AIOps+at+Scale+%F0%9F%A7%A0" alt="Messages"/>
 
 <br/>
 
