@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Oussema%20Hafidhi&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Oussema%20Hafidhi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Site%20Reliability%20Manager%20%7C%20AI%20%26%20Innovation%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+a+passionate+developer+%F0%9F%9A%80;Building+innovative+solutions+%F0%9F%92%A1;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;Site+Reliability+Manager+%F0%9F%9B%A1%EF%B8%8F;Building+Innovative+AI+Solutions+%F0%9F%A4%96;Ensuring+%2299.99%25+Uptime+%F0%9F%9A%80;Turning+Incidents+into+Opportunities+%F0%9F%92%A1" alt="Typing SVG"/>
 
 <br/>
 
@@ -15,6 +15,8 @@
 <a href="https://github.com/oussemahafidhi-svg?tab=followers">
   <img src="https://img.shields.io/github/followers/oussemahafidhi-svg?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers"/>
 </a>
+<img src="https://img.shields.io/badge/SRE-Manager-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="SRE Manager"/>
+<img src="https://img.shields.io/badge/AI-Innovator-ff6b6b?style=for-the-badge&logo=openai&logoColor=white" alt="AI Innovator"/>
 
 </div>
 
@@ -25,11 +27,16 @@
 ```yaml
 name: Oussema Hafidhi
 location: Tunisia 🇹🇳
-role: Full Stack Developer
-current_focus: Building amazing web experiences
-learning: Cloud Architecture & DevOps
-open_to: Collaborations & Opportunities
-fun_fact: I turn coffee into code ☕ → 💻
+role: Site Reliability Manager
+specialization:
+  - AI-Powered Solutions & Innovation 🤖
+  - Site Reliability Engineering (SRE)
+  - Incident Management & Root Cause Analysis
+  - Platform Engineering & Automation
+current_focus: Building AI-driven reliability tools 🧠
+learning: LLMs, MLOps & AIOps at Scale
+philosophy: "Reliability is a feature, not an afterthought"
+fun_fact: I turn incidents into innovations ⚡ → 💡
 ```
 
 ---
@@ -46,6 +53,7 @@ fun_fact: I turn coffee into code ☕ → 💻
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### 🌐 Frontend
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
@@ -57,7 +65,37 @@ fun_fact: I turn coffee into code ☕ → 💻
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+### 🤖 AI & Innovation
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+### 🛡️ SRE & Observability
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+</div>
+
+---
+
+## 💡 AI-Powered Solutions I Build
+
+<div align="center">
+
+| 🤖 AI Agent | 🔍 Description |
+|---|---|
+| **AIOps Platform** | ML-powered anomaly detection & auto-remediation |
+| **Incident Predictor** | Predicts incidents before they happen using LLMs |
+| **Smart Runbooks** | AI-generated runbooks from past incidents |
+| **ChatOps Bot** | Conversational AI for on-call engineers |
 
 </div>
 
