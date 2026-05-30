@@ -101,8 +101,8 @@ fun_fact: I turn incidents into innovations ⚡ → 💡
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=oussemahafidhi-svg&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=06b6d4&fire=f43f5e&currStreakLabel=6AD3F7" alt="GitHub Streak" width="48%"/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oussemahafidhi-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=oussemahafidhi-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=7c3aed&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="48%"/>
 
 </div>
 
