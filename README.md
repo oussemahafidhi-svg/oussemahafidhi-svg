@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- BANNIÈRE : typing-svg avec nom et rôle, repeat=true, paramètres simples -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=2000&color=A855F7&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Oussema+Hafidhi+%F0%9F%91%8B;Site+Reliability+Manager+%F0%9F%9B%A1%EF%B8%8F;AI+%26+Innovation+Enthusiast+%F0%9F%A4%96" alt="Oussema Hafidhi - SRE Manager"/>
+<!-- BANNIÈRE PRINCIPALE : SVG hébergé directement dans le repo = 100% fiable -->
+<img src="https://raw.githubusercontent.com/oussemahafidhi-svg/oussemahafidhi-svg/main/header.svg" width="100%" alt="Oussema Hafidhi - Site Reliability Manager"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=45&lines=Building+Innovative+AI+Solutions+%F0%9F%A4%96;Ensuring+99.99%25+Uptime+%F0%9F%9A%80;Turning+Incidents+into+Opportunities+%F0%9F%92%A1;LLMs+%7C+MLOps+%7C+AIOps+at+Scale+%F0%9F%A7%A0" alt="Messages"/>
+<!-- Typing animation messages -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=45&lines=Building+Innovative+AI+Solutions+%F0%9F%A4%96;Ensuring+99.99%25+Uptime+%F0%9F%9A%80;Turning+Incidents+into+Opportunities+%F0%9F%92%A1;LLMs+%7C+MLOps+%7C+AIOps+at+Scale+%F0%9F%A7%A0" alt="Messages"/>
 
 <br/>
 
