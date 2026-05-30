@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Oussema%20Hafidhi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Site%20Reliability%20Manager%20%7C%20AI%20%26%20Innovation%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- Header avec typing SVG comme bannière principale -->
+<a href="https://github.com/oussemahafidhi-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=3000&color=A855F7&center=true&vCenter=true&random=false&width=800&height=100&lines=Oussema+Hafidhi+%F0%9F%9B%A1%EF%B8%8F;Site+Reliability+Manager" alt="Header"/>
+</a>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;Site+Reliability+Manager+%F0%9F%9B%A1%EF%B8%8F;Building+Innovative+AI+Solutions+%F0%9F%A4%96;Ensuring+%2299.99%25+Uptime+%F0%9F%9A%80;Turning+Incidents+into+Opportunities+%F0%9F%92%A1" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&height=60&lines=Building+Innovative+AI+Solutions+%F0%9F%A4%96;Ensuring+99.99%25+Uptime+%F0%9F%9A%80;Turning+Incidents+into+Opportunities+%F0%9F%92%A1;LLMs+%7C+MLOps+%7C+AIOps+at+Scale+%F0%9F%A7%A0" alt="Subtitle typing"/>
 
 <br/>
 
@@ -154,12 +155,5 @@ fun_fact: I turn incidents into innovations ⚡ → 💡
 ---
 
 <div align="center">
-
-<!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
 </div>
