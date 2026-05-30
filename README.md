@@ -1,16 +1,20 @@
 <div align="center">
 
-<!-- BANNIÈRE PRINCIPALE : SVG hébergé directement dans le repo = 100% fiable -->
-<img src="https://raw.githubusercontent.com/oussemahafidhi-svg/oussemahafidhi-svg/main/header.svg" width="100%" alt="Oussema Hafidhi - Site Reliability Manager"/>
+<!-- BANNIÈRE PRINCIPALE : SVG hébergé dans le repo -->
+<img src="https://raw.githubusercontent.com/oussemahafidhi-svg/oussemahafidhi-svg/main/header.svg" width="100%" alt="banner"/>
+
+# 👋 Oussema Hafidhi
+
+### 🛡️ Site Reliability Manager &nbsp;|&nbsp; 🤖 AI & Innovation Enthusiast
 
 <br/>
 
 <!-- Typing animation messages -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=45&lines=Building+Innovative+AI+Solutions+%F0%9F%A4%96;Ensuring+99.99%25+Uptime+%F0%9F%9A%80;Turning+Incidents+into+Opportunities+%F0%9F%92%A1;LLMs+%7C+MLOps+%7C+AIOps+at+Scale+%F0%9F%A7%A0" alt="Messages"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=45&lines=Building+Innovative+AI+Solutions+%F0%9F%A4%96;Ensuring+99.99%25+Uptime+%F0%9F%9A%80;Turning+Incidents+into+Opportunities+%F0%9F%92%A1;LLMs+%7C+MLOps+%7C+AIOps+at+Scale+%F0%9F%A7%A0" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Profile views & Social badges -->
+<!-- Badges dynamiques -->
 <a href="https://github.com/oussemahafidhi-svg">
   <img src="https://komarev.com/ghpvc/?username=oussemahafidhi-svg&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
